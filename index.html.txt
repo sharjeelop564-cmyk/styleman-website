@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Men’s Fashion</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Men’s Fashion</h1>
+  </header>
+
+  <section class="hero">
+    <h2>Elevate Your Style</h2>
+    <p>Latest trends & outfits for every occasion.</p>
+  </section>
+
+  <section class="features">
+    <div class="card">
+      <h3>Outfit Ideas</h3>
+      <p>Look sharp every day.</p>
+    </div>
+    <div class="card">
+      <h3>Style Tips</h3>
+      <p>Practical advice for modern men.</p>
+    </div>
+  </section>
+
+  <footer>© 2025 Men’s Fashion</footer>
+</body>
+</html>
